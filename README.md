@@ -4,9 +4,9 @@ Analises estatísticas / Aplicações de métodos estatísticos
 # Aplicação de Análise Fatorial Vs Componentes Principais
 
 ### Autores
-Kaíque Ferreira
+Kaíque Ferreira Henrique de Souza Linkedn
 
-Paulo 
+Paulo Henrique Brasil Ribeiro
 
 ### Descrição
 Trabalho realizado em novembro de 2019 como parte da disciplina de Análise Multivarida ultilizando dados sobre o retorno financeiro de 5 grande empresas
