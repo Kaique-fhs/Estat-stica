@@ -4,7 +4,7 @@ Analises estatísticas / Aplicações de métodos estatísticos
 # Aplicação de Análise Fatorial Vs Componentes Principais
 
 ### Autores
-Kaíque Ferreira Henrique de Souza Linkedn
+Kaíque Ferreira Henrique de Souza [Linkedin](https://www.linkedin.com/in/ka%C3%ADque-ferreira-883b32182/)
 
 Paulo Henrique Brasil Ribeiro
 
