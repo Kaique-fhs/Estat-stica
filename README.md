@@ -5,6 +5,7 @@ Analises estatísticas / Aplicações de métodos estatísticos
 
 ### Autores
 Kaíque Ferreira
+
 Paulo 
 
 ### Descrição
